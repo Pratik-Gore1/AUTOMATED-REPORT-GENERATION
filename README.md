@@ -23,3 +23,8 @@ Once the analysis is completed, the program uses the ReportLab library to genera
 The tabular representation of the data improves readability and allows users to easily compare individual records. Spacing and formatting elements are applied to ensure the report is clean and visually organized. The final PDF file is generated automatically and saved to the local system.
 
 Overall, this project demonstrates effective file handling, basic data analysis, and automated document generation using Python. It fulfills all the requirements of the internship task by combining data processing with professional report creation in a practical and efficient manner.
+
+# INPUT
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5940fb01-fe59-48cc-b44f-349228a618f7" />
+# OUTPUT 
+<img width="987" height="448" alt="Image" src="https://github.com/user-attachments/assets/dc8561f4-744f-4187-83e1-898c1466cdf4" />
